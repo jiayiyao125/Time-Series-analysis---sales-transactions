@@ -1,4 +1,4 @@
-# Time-Series-analysis-to-predict-future-sales
+# Exploratory data analysis with sales transactions dataset and predict future sales
 
 # Introduction
 Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices.
